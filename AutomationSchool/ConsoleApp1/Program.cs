@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main()
         {
             Console.WriteLine("Hello, team");
+            //the new comment was added 2
         }
     }
 }
