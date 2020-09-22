@@ -50,6 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="ViktoriaFolder\" />
+  </ItemGroup>
+  <ItemGroup>
     <Folder Include="Tamara\" />
   </ItemGroup>
   <ItemGroup>
