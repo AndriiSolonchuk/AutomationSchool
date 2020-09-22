@@ -52,5 +52,11 @@
   <ItemGroup>
     <Folder Include="ViktoriaFolder\" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Tamara\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Roy\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
