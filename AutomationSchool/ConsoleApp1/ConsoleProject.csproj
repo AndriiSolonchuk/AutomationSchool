@@ -50,10 +50,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Andrii\" />
+    <Folder Include="Eli\" />
+    <Folder Include="Roy\" />
     <Folder Include="Tamara\" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Roy\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
