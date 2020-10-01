@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutomationSchool",
+    "\\AutomationSchool\\ConsoleApp1",
+    "\\AutomationSchool\\ConsoleApp1\\Properties"
   ],
+  "SelectedNode": "\\AutomationSchool\\ConsoleApp1\\obj",
   "PreviewInSolutionExplorer": false
 }
